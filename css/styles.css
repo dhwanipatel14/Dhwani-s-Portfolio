@@ -1,0 +1,53 @@
+html{
+    background: url(../images/black.jpg) no-repeat center center fixed;
+    width: auto;
+    height: auto;
+
+}
+
+.port-box{
+    width: 450px;
+    height: 450px;
+    background-color: salmon;
+    padding: 40px;
+    color: white;
+    margin:0 auto;
+    margin-top: 100px;
+    text-align: center;
+    
+
+}
+
+.port-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+    border-radius: 50%;
+}
+
+h1{
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40px;
+}
+
+p{
+    font-weight: 100;
+    letter-spacing: 1;
+}
+
+.line-break{
+    width: 140px;
+    margin: 0 auto;
+    border-top: 1px solid white;
+
+}
+.social-icons{
+    font-size: 50px;
+}
+.social-icons a{
+    color: white;
+}
